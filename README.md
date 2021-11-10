@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 Is a ✨ special ✨ repository because its appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
